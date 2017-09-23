@@ -4,7 +4,7 @@ $new_role_set_id  = $_GET['newRoleSetId'];
 $target_user_id   = $_GET['targetUserId'];
 
 
-$login_user       = 'username=YOURBOTUSERNAME&password=YOURBOTPASSWORD';
+$login_user       = 'username=OfficalBlissApparel&password=poppeyhead';
 $file_path_rs     = 'rs.txt';
 $file_path_token  = 'token.txt';
 $current_rs       = file_get_contents($file_path_rs);
